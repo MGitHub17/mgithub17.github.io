@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<style>
+body {
+    background-image: url("ball-animation.gif");
+}
+</style>
+
+
+<audio controls autoplay>
+
+<source src="Ball Animation Audio.mp4" type="audio/mp4">
+Your browser does not support the audio element.
+
+</audio>
+
+</body>
+
+</html>
